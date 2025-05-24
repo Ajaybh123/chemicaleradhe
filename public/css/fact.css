@@ -1,0 +1,74 @@
+/* src/FactSection.css */
+
+/* --- General Fact Section Styling (Example - adjust to your design) --- */
+.fact {
+    padding: 60px 0; /* Add some padding for spacing */
+    background-color: #f8f9fa; /* Light background */
+    color: #333;
+}
+
+.fact .counters .col-6 {
+    text-align: center;
+    margin-bottom: 30px; /* Space between fact items */
+}
+
+.fact .fact-icon i {
+    font-size: 80px; /* Default icon size for desktop */
+    color: #007bff; /* Example icon color */
+    margin-bottom: 15px;
+}
+
+.fact .fact-text h2 {
+    font-size: 48px; /* Default number size for desktop */
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: #007bff; /* Example number color */
+}
+
+.fact .fact-text p {
+    font-size: 20px; /* Default label size for desktop */
+    margin-bottom: 0;
+}
+
+/* --- Responsive Adjustments for Mobile --- */
+@media (max-width: 767.98px) {
+    /* For smaller screens, reduce padding on the section */
+    .fact {
+        padding: 40px 0;
+    }
+
+    /* Reduce icon size on mobile */
+    .fact .fact-icon i {
+        font-size: 50px; /* Smaller icon size for mobile */
+        margin-bottom: 10px;
+    }
+
+    /* Reduce number size on mobile */
+    .fact .fact-text h2 {
+        font-size: 36px; /* Smaller number size for mobile */
+        margin-bottom: 2px;
+    }
+
+    /* Reduce label size on mobile */
+    .fact .fact-text p {
+        font-size: 16px; /* Smaller label size for mobile */
+    }
+
+    /* Adjust spacing between fact items on mobile if needed */
+    .fact .counters .col-6 {
+        margin-bottom: 20px;
+    }
+}
+
+/* You might want to adjust sizes for medium screens too */
+/* @media (min-width: 768px) and (max-width: 991.98px) {
+    .fact .fact-icon i {
+        font-size: 60px;
+    }
+    .fact .fact-text h2 {
+        font-size: 40px;
+    }
+    .fact .fact-text p {
+        font-size: 18px;
+    }
+} */

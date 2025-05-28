@@ -9,31 +9,7 @@ const Product = () => {
                     <h2>We Provide Products</h2>
                 </div>
                 <div className="row">
-                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" >
-                        <div className="service-item">
-                            <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/dl malic acid china.avif" alt="Image" />
-                                <div className="service-overlay">
-                                    <p>
-                                        DL-Malic acid is a synthetic mixture of two stereoisomers: D-malic acid and L-malic acid. It is a dicarboxylic acid commonly used in food, pharmaceuticals, and cosmetics due to its sour taste and buffering properties.
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="service-text">
-                                <Link to="/products">
-                                    <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                            DL-MALIC ACID
-                                        </span>
-
-                                    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </Link>
-
-                                <a className="btn" href="img/dl malic acid china.avif" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-
+                   
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div className="service-item">
                             <div className="service-img">
@@ -55,31 +31,6 @@ const Product = () => {
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
                                 <a className="btn" href="img/malic acid.jpg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div className="service-item">
-                            <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/dl tartric acid.jpg" alt="Image" />
-                                <div className="service-overlay">
-                                    <p>
-                                        DL-Tartaric acid is a synthetic, racemic mixture of the two enantiomers: D-(+)-tartaric acid and L-(–)-tartaric acid. Unlike naturally occurring tartaric acid (typically the dextrorotatory form), DL-tartaric acid does not rotate plane-polarized light due to the presence of both optical isomers in equal amounts.
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="service-text">
-
-                                <Link to="/tartricacid">
-                                    <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        DL TARTRIC ACID
-                                        </span>
-                                    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </Link>
-
-                                <a className="btn" href="img/dl tartric acid.jpg" data-lightbox="service">+</a>
                             </div>
                         </div>
                     </div>

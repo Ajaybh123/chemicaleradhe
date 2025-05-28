@@ -52,7 +52,7 @@ const Topbar = () => {
                                         </div>
                                         <div className="top-bar-text">
                                             <h3>Call Us</h3>
-                                            <p>+91 93194 23558</p>
+                                            <p>+91 93194 23558, 9718566296</p>
                                         </div>
                                     </div>
                                 </div>

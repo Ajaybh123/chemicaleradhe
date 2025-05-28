@@ -22,7 +22,7 @@ const Contact = () => {
                                 <i class="flaticon-call"></i>
                                 <div class="contact-text">
                                     <h2>Phone</h2>
-                                    <p>+91 93194 23558 </p>
+                                    <p>+91 93194 23558, 9718566296</p>
                                     <p>Marketing & quantity control manager</p>
                                 </div>
                             </div>

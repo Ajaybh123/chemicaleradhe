@@ -13,7 +13,11 @@ const Footer = () => {
                                 <h2>Office Contact</h2>
                                 <p><i class="fa fa-map-marker-alt"></i>505/1 OM VALLEY ROAD SECTOR 58 FARIDABAD (H.R. )Haryana, 121004
                                 </p>
-                                <p><i class="fa fa-phone-alt"></i>+91 93194 23558, 9718566296</p>
+                                <p><i class="fa fa-phone-alt"></i>+91  9718566296</p>
+                                <p className='bg-white text-dark p-3'>
+                                    <b>Sandeep Singh -</b> <br /> Marketing and Quality Control Manager
+                                    <p><i class="fa fa-phone-alt"></i>93194 23558 </p>
+                                </p>
                                 <p><i class="fa fa-envelope"></i>srkfc1994@gmail.com</p>
                                 <div class="footer-social">
                                     <a href="https://x.com/"><i class="fab fa-twitter"></i></a>

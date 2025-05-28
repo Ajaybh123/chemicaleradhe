@@ -229,11 +229,6 @@ const Product1 = () => {
                         </div>
                     </div>
 
-
-
-
-
-
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div className="service-item">
                             <div className="service-img">
@@ -253,10 +248,6 @@ const Product1 = () => {
                         </div>
                     </div>
 
-
-
-
-
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div className="service-item">
                             <div className="service-img">
@@ -274,11 +265,6 @@ const Product1 = () => {
                             </div>
                         </div>
                     </div>
-
-
-
-
-
 
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div className="service-item">
@@ -298,13 +284,6 @@ const Product1 = () => {
                             </div>
                         </div>
                     </div>
-
-
-
-
-
-
-
                 </div>
             </div>
 

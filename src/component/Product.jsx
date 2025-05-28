@@ -12,7 +12,7 @@ const Product = () => {
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" >
                         <div className="service-item">
                             <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/dl malic acid china.avif" alt="Image" />
+                                <img style={{ cursor: "pointer" }} src="img/product7.jpeg" alt="Image" />
                                 <div className="service-overlay">
                                     <p>
                                         DL-Malic acid is a synthetic mixture of two stereoisomers: D-malic acid and L-malic acid. It is a dicarboxylic acid commonly used in food, pharmaceuticals, and cosmetics due to its sour taste and buffering properties.
@@ -21,15 +21,10 @@ const Product = () => {
                             </div>
                             <div className="service-text">
                                 <Link to="/products">
-                                    <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                            DL-MALIC ACID
-                                        </span>
+                                    <span style={{ fontSize: '1.5rem', cursor: 'pointer', }}>DL-MALIC ACID </span>
+                                </Link>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;
 
-                                    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </Link>
-
-                                <a className="btn" href="img/dl malic acid china.avif" data-lightbox="service">+</a>
+                                <a className="btn" href="img/product7.jpeg" data-lightbox="service">+</a>
                             </div>
                         </div>
                     </div>
@@ -50,7 +45,7 @@ const Product = () => {
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
 
-                                        MALIC ACID
+                                            MALIC ACID
                                         </span>
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
@@ -62,7 +57,7 @@ const Product = () => {
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div className="service-item">
                             <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/dl tartric acid.jpg" alt="Image" />
+                                <img style={{ cursor: "pointer" }} src="img/product9.jpeg" alt="Image" />
                                 <div className="service-overlay">
                                     <p>
                                         DL-Tartaric acid is a synthetic, racemic mixture of the two enantiomers: D-(+)-tartaric acid and L-(–)-tartaric acid. Unlike naturally occurring tartaric acid (typically the dextrorotatory form), DL-tartaric acid does not rotate plane-polarized light due to the presence of both optical isomers in equal amounts.
@@ -70,20 +65,12 @@ const Product = () => {
                                 </div>
                             </div>
                             <div className="service-text">
-
-                                <Link to="/tartricacid">
-                                    <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        DL TARTRIC ACID
-                                        </span>
-                                    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </Link>
-
+                                <Link to={'/tartricacid'}> <span style={{ fontSize: '1.5rem', cursor: "pointer", }}>DL TARTRIC ACID</span>
+                                </Link> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;
                                 <a className="btn" href="img/dl tartric acid.jpg" data-lightbox="service">+</a>
                             </div>
                         </div>
                     </div>
-
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div className="service-item">
                             <div className="service-img">
@@ -100,7 +87,7 @@ const Product = () => {
                                 <Link to="/Ltartric">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        L+ TARTRIC ACID
+                                            L+ TARTRIC ACID
                                         </span>
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
@@ -108,7 +95,7 @@ const Product = () => {
                             </div>
                         </div>
                     </div>
-                    
+
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div className="service-item">
                             <div className="service-img">
@@ -123,7 +110,7 @@ const Product = () => {
                                 <Link to="/Dextrose">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        Dextrose anhydrous
+                                            Dextrose anhydrous
                                         </span>
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
@@ -147,7 +134,7 @@ const Product = () => {
                                 <Link to="/borax">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&nbsp;&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        BORAX
+                                            BORAX
                                         </span>
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
@@ -172,14 +159,15 @@ const Product = () => {
                                 <Link to="/BoricAcid">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&nbsp;&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        BORIC ACID
-                                        /</span>
+                                            BORIC ACID
+                                            /</span>
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
                                 <a className="btn" href="img/borax acid.jpg" data-lightbox="service">+</a>
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div className="service-item">
                             <div className="service-img">
@@ -195,7 +183,7 @@ const Product = () => {
                                 <Link to="/titanium">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&nbsp;&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        TITANIUM DIOXIDE
+                                            TITANIUM DIOXIDE
                                         </span>
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
@@ -220,7 +208,7 @@ const Product = () => {
                                 <Link to="/portablecabin">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&nbsp;&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        PORTABLE CABIN
+                                            PORTABLE CABIN
                                         </span>
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
@@ -244,7 +232,7 @@ const Product = () => {
                                 <Link to="/msoffice">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&nbsp;&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        MS OFFICE CONTAINER
+                                            MS OFFICE CONTAINER
                                         </span>
                                     </span>&nbsp;&nbsp;
                                 </Link>
@@ -269,7 +257,7 @@ const Product = () => {
                                 <Link to="/toilet">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        MS PORTABLE TOILETS
+                                            MS PORTABLE TOILETS
                                         </span>
                                     </span>&nbsp;&nbsp;
                                 </Link>
@@ -293,7 +281,7 @@ const Product = () => {
                                 <Link to="/shipping">
                                     <span style={{ cursor: "pointer", fontSize: '1.3rem' }}>
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        SHIPPING CONTAINER CABIN
+                                            SHIPPING CONTAINER CABIN
                                         </span>
                                     </span>
                                 </Link>
@@ -316,9 +304,9 @@ const Product = () => {
                                 <Link to="/office">
                                     <span style={{ cursor: "pointer", fontSize: '1.3rem' }}>
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        20x10x8.6 office container
-                                        </span>
+                                            <span className="responsive-text" style={{ cursor: "pointer" }}>
+                                                20x10x8.6 office container
+                                            </span>
                                         </span>
                                     </span>&nbsp;
                                 </Link>
@@ -342,7 +330,7 @@ const Product = () => {
                                 <Link to="/officecontainer">
                                     <span style={{ cursor: "pointer", fontSize: '1.3rem' }}>
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        40x12x8.6 office container
+                                            40x12x8.6 office container
                                         </span>
                                     </span>&nbsp;
                                 </Link>
@@ -366,7 +354,7 @@ const Product = () => {
                                 <Link to="/dltartric">
                                     <span style={{ cursor: "pointer", fontSize: '1.3rem' }}>
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        Dibenzoyl L Tartaric acid
+                                            Dibenzoyl L Tartaric acid
                                         </span>
                                     </span>&nbsp;
                                 </Link>
@@ -374,6 +362,7 @@ const Product = () => {
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
 

@@ -33,6 +33,7 @@ const Product = () => {
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div className="service-item">
                             <div className="service-img">
@@ -57,6 +58,7 @@ const Product = () => {
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div className="service-item">
                             <div className="service-img">
@@ -81,6 +83,7 @@ const Product = () => {
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div className="service-item">
                             <div className="service-img">
@@ -105,6 +108,7 @@ const Product = () => {
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div className="service-item">
                             <div className="service-img">
@@ -152,7 +156,6 @@ const Product = () => {
                         </div>
                     </div>
 
-
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div className="service-item">
                             <div className="service-img">
@@ -162,16 +165,6 @@ const Product = () => {
                                         Boric Acid is a weak, naturally occurring acid derived from boron. It usually appears as a white, crystalline powder or in granule form. Boric acid is widely used as an antiseptic, insecticide, flame retardant, and in various industrial applications. In medicine, it serves as an eye wash or antiseptic for minor cuts and burns.
                                     </p>
                                 </div>
-
-
-
-
-
-
-
-
-
-
                             </div>
 
                             <div className="service-text">
@@ -187,6 +180,7 @@ const Product = () => {
                             </div>
                         </div>
                     </div>
+
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div className="service-item">
                             <div className="service-img">
@@ -212,163 +206,77 @@ const Product = () => {
                         </div>
                     </div>
 
-
-                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div className="service-item">
                             <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/portable cabin.jpeg" alt="Image" />
+                                <img style={{ cursor: "pointer" }} src="img/product7.jpeg" alt="Image" />
                                 <div className="service-overlay">
                                     <p>
-
+                                        DL-Malic Acid is a white crystalline powder used as a food acidulant and flavor enhancer. It provides a smooth, tart taste and improves stability in beverages and confectionery products.
                                     </p>
                                 </div>
                             </div>
                             <div className="service-text">
 
-                                <Link to="/portablecabin">
-                                    <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&nbsp;&nbsp;
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        PORTABLE CABIN
-                                        </span>
-                                    </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                </Link>
-                                <a className="btn" href="img/portable cabin.jpeg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-
-
-
-
-                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div className="service-item">
-                            <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/MS-Office-Container..jpg" alt="Image" />
-                                <div className="service-overlay">
-                                    <p>
-                                        An MS Office Container Mild Steel Office Container is a portable, prefabricated structure made from mild steel and designed to serve as a temporary or mobile office space.
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="service-text">
-
-                                <Link to="/msoffice">
-                                    <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&nbsp;&nbsp;
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        MS OFFICE CONTAINER
-                                        </span>
-                                    </span>&nbsp;&nbsp;
-                                </Link>
-                                <a className="btn" href="img/MS-Office-Container..jpg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div className="service-item">
-                            <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/ms-portable-toilet.webp" alt="Image" />
-                                <div className="service-overlay">
-                                    <p>
-
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="service-text">
-
-
-                                <Link to="/toilet">
-                                    <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        MS PORTABLE TOILETS
-                                        </span>
-                                    </span>&nbsp;&nbsp;
-                                </Link>
-                                <a className="btn" href="img/ms-portable-toilet.webp" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div className="service-item">
-                            <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/office container.webp" alt="Image" />
-                                <div className="service-overlay">
-                                    <p>
-
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="service-text">
-
-                                <Link to="/shipping">
+                                <Link to="/dltartric">
                                     <span style={{ cursor: "pointer", fontSize: '1.3rem' }}>
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        SHIPPING CONTAINER CABIN
-                                        </span>
-                                    </span>
-                                </Link>
-                                <a className="btn" href="img/office container.webp" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div className="service-item">
-                            <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/20x10x8.6 office container.jpg" alt="Image" />
-                                <div className="service-overlay">
-                                    <p>
-
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="service-text">
-
-                                <Link to="/office">
-                                    <span style={{ cursor: "pointer", fontSize: '1.3rem' }}>
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        20x10x8.6 office container
-                                        </span>
+                                        DL Malic acid
                                         </span>
                                     </span>&nbsp;
                                 </Link>
-                                <a className="btn" href="img/20x10x8.6 office container.jpg" data-lightbox="service">+</a>
+                                <a className="btn" href="img/product7.jpeg" data-lightbox="service">+</a>
                             </div>
                         </div>
                     </div>
 
-                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div className="service-item">
                             <div className="service-img">
-                                <img style={{ cursor: "pointer" }} src="img/40x12x8.6 office container.png" alt="Image" />
+                                <img style={{ cursor: "pointer" }} src="img/product8.jpeg" alt="Image" />
                                 <div className="service-overlay">
                                     <p>
-
+                                        Dibenzoyl-L-tartaric acid is a derivative of naturally occurring L-tartaric acid in which both hydroxyl groups are esterified with benzoyl groups. It is a chiral compound widely used in organic chemistry, particularly for the resolution of racemic mixtures—separating enantiomers based on their differing interactions with this chiral acid.
                                     </p>
                                 </div>
                             </div>
                             <div className="service-text">
 
-                                <Link to="/officecontainer">
+                                <Link to="/dltartric">
                                     <span style={{ cursor: "pointer", fontSize: '1.3rem' }}>
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                        40x12x8.6 office container
+                                        Dibenzoyl L Tartaric acid
                                         </span>
                                     </span>&nbsp;
                                 </Link>
-                                <a className="btn" href="img/40x12x8.6 office container.png" data-lightbox="service">+</a>
+                                <a className="btn" href="img/product8.jpeg" data-lightbox="service">+</a>
                             </div>
                         </div>
                     </div>
 
+                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                        <div className="service-item">
+                            <div className="service-img">
+                                <img style={{ cursor: "pointer" }} src="img/product9.jpeg" alt="Image" />
+                                <div className="service-overlay">
+                                    <p>
+                                        DL-Tartaric Acid is a white, crystalline organic acid used as an acidulant in food, pharmaceuticals, and industrial applications. It offers antioxidant properties and stabilizes solutions effectively.
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="service-text">
 
-
-
+                                <Link to="/dltartric">
+                                    <span style={{ cursor: "pointer", fontSize: '1.3rem' }}>
+                                        <span className="responsive-text" style={{ cursor: "pointer" }}>
+                                        DL Tartaric acid
+                                        </span>
+                                    </span>&nbsp;
+                                </Link>
+                                <a className="btn" href="img/product9.jpeg" data-lightbox="service">+</a>
+                            </div>
+                        </div>
+                    </div>
 
                     <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div className="service-item">

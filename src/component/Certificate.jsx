@@ -53,31 +53,39 @@ const Certificate = () => {
     const certificates = [
         {
             id: 1,
-            title: "Brc ms certificate",
+            title: "BRC  Certificate",
             image: "img/certificate.jpg"
         },
         {
             id: 2,
-            title: "NON GMO MS certificate ",
+            title: "NON GMO Certificate ",
             image: "img/NON GMO Ms.jpg"
         },
         {
             id: 3,
-            title: "HALAL MS certificate",
+            title: "HALAL Certificate",
             image: "img/Halal.jpg"
         },
         {
             id: 4,
-            title: "KISHOR MS certificate",
+            title: "KISHOR Certificate",
             image: "img/kisore ms.jpg"
         },
         {
             id: 5,
-            title: "UDYAM certificate",
+            title: "UDYAM Certificate",
             image: "img/udyam.jpg"
         },
-
-
+        {
+            id: 5,
+            title: "Quality Management Certificate",
+            image: "img/certificate1.jpg"
+        },
+        {
+            id: 5,
+            title: "Food Management Certificate",
+            image: "img/certificate2.jpg"
+        }
     ];
 
     return (

@@ -159,8 +159,7 @@ const Product = () => {
                                 <Link to="/BoricAcid">
                                     <span style={{ cursor: "pointer", fontSize: '1.5rem' }}>&nbsp;&nbsp;&nbsp;
                                         <span className="responsive-text" style={{ cursor: "pointer" }}>
-                                            BORIC ACID
-                                            /</span>
+                                            BORIC ACID</span>
                                     </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                 </Link>
                                 <a className="btn" href="img/borax acid.jpg" data-lightbox="service">+</a>
